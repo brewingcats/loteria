@@ -23,4 +23,5 @@ A temporary game file can be used to avoid overriding existing game files. Be ca
 
 
 `Start-LotterySimulation -TempGameFile <path/to/your/file.xml>` uses a custom file
+
 `Start-LotterySimulation -BoardCount 6` generates 6 boards (players) for the simulation
